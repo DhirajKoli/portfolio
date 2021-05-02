@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Er.Strange&#039;s Portfolio!	</title>
-	<atom:link href="https://erstrangedhiraj.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://erstrangedhiraj.github.io/portfolio</link>
+	Comments on: New in blogging!	</title>
+	<atom:link href="https://erstrangedhiraj.github.io/portfolio/2021/04/19/new-in-blogging/feed/" rel="self" type="application/rss+xml" />
+	<link>https://erstrangedhiraj.github.io/portfolio/2021/04/19/new-in-blogging/</link>
 	<description>Dhiraj Koli&#039;s Personal Portfolio</description>
 	<lastBuildDate>Thu, 22 Apr 2021 17:47:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>
-		Comment on New in blogging! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://erstrangedhiraj.github.io/portfolio/2021/04/19/new-in-blogging/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
